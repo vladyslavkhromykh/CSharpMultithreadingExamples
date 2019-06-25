@@ -1,0 +1,11 @@
+C:\Users\Vladyslav\Desktop\projects\CSharpMultithreading\bin\Debug\netcoreapp2.2\CSharpMultithreading.deps.json
+C:\Users\Vladyslav\Desktop\projects\CSharpMultithreading\bin\Debug\netcoreapp2.2\CSharpMultithreading.runtimeconfig.json
+C:\Users\Vladyslav\Desktop\projects\CSharpMultithreading\bin\Debug\netcoreapp2.2\CSharpMultithreading.runtimeconfig.dev.json
+C:\Users\Vladyslav\Desktop\projects\CSharpMultithreading\bin\Debug\netcoreapp2.2\CSharpMultithreading.dll
+C:\Users\Vladyslav\Desktop\projects\CSharpMultithreading\bin\Debug\netcoreapp2.2\CSharpMultithreading.pdb
+C:\Users\Vladyslav\Desktop\projects\CSharpMultithreading\obj\Debug\netcoreapp2.2\CSharpMultithreading.csprojAssemblyReference.cache
+C:\Users\Vladyslav\Desktop\projects\CSharpMultithreading\obj\Debug\netcoreapp2.2\CSharpMultithreading.csproj.CoreCompileInputs.cache
+C:\Users\Vladyslav\Desktop\projects\CSharpMultithreading\obj\Debug\netcoreapp2.2\CSharpMultithreading.AssemblyInfoInputs.cache
+C:\Users\Vladyslav\Desktop\projects\CSharpMultithreading\obj\Debug\netcoreapp2.2\CSharpMultithreading.AssemblyInfo.cs
+C:\Users\Vladyslav\Desktop\projects\CSharpMultithreading\obj\Debug\netcoreapp2.2\CSharpMultithreading.dll
+C:\Users\Vladyslav\Desktop\projects\CSharpMultithreading\obj\Debug\netcoreapp2.2\CSharpMultithreading.pdb
